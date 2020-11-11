@@ -1,2 +1,2 @@
 # IPL-Dataset-Analysis
-Exploratory Data Analysis fir IPL matches 
+Exploratory Data Analysis for IPL matches 
